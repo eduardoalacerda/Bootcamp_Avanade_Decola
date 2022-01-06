@@ -10,11 +10,11 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/CSharp/CSharp/bin/Debug/net5.0/CSharp.dll",
+            "program": "${workspaceFolder}/Colecoes/bin/Debug/net5.0/Colecoes.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/CSharp/CSharp",
+            "cwd": "${workspaceFolder}/Colecoes",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "integratedTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {
